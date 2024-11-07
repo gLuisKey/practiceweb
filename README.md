@@ -1,2 +1,0 @@
-# practiceweb
-practicerepository
